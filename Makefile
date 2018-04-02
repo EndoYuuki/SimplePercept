@@ -1,4 +1,4 @@
-TARGET = main
+TARGET = main.out
 OBJS = main.o
 
 CXX = g++
